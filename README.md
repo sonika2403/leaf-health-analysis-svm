@@ -1,6 +1,6 @@
 # leaf-health-analysis-svm-naivebayes
 
-**IMPORTANT NOTE**
+**IMPORTANT NOTE**:
 If you get to see error after opening the code files, please download it and use it. 
 
 
